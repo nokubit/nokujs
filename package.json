@@ -1,0 +1,22 @@
+{
+  "name": "nokujs",
+  "version": "1.0.0",
+  "description": "Nokubit js support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nokubit",
+  "license": "ISC",
+  "dependencies": {
+    "bn.js": "^4.11.8",
+    "elliptic": "^6.4.0",
+    "fs-extra": "^7.0.0",
+    "ipaddr.js": "^1.7.0",
+    "level": "^4.0.0",
+    "moment": "^2.22.1",
+    "secp256k1": "^3.5.0",
+    "sqlite3": "^4.0.2",
+    "zeromq": "^5.1.0"
+  }
+}

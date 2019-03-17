@@ -1,0 +1,17 @@
+*.csv
+*.xls?
+*.ods
+*.dat
+*.iml
+*.log
+*.out
+*.pid
+*.seed
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+*.xml
+.idea
+.project
+node_modules
